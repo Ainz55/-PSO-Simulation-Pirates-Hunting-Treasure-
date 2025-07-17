@@ -24,3 +24,7 @@ This Python script simulates pirate ships searching for treasure using a Particl
   ```
 _____
 ## Visualization
+<img width="641" height="556" alt="image" src="https://github.com/user-attachments/assets/270a0aa9-e074-477b-98d1-315e3dab84bd" />
+
+<img width="648" height="554" alt="image" src="https://github.com/user-attachments/assets/12ed3adf-0e93-4c8a-bc78-5625d94fd9e6" />
+
